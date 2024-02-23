@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=softdev0arvr&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-Unity, AR/VR, Unreal Engine developer
+Senior C#, .NET developer
 
 
 # 💻 Tech Stack:
